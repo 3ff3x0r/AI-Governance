@@ -108,12 +108,6 @@ In my blog post, I will break down the key points of SB 1047 and explain why it 
 **What’s something new you want to be able to do?**
 I want to deepen my understanding of AI regulation's complexities and learn how to effectively communicate these challenges to a broader audience. By analyzing legislation like SB 1047 and its implications, I aim to become more proficient in advocating for informed and adaptive AI governance.
 
-### Connecting to Your Project
-This user story aligns closely with your project focus on AI governance and public understanding of AI risks. By exploring the implications of SB 1047, you can demonstrate how regulatory frameworks impact public perception and safety, while also emphasizing the importance of ongoing dialogue about AI's evolving capabilities. This approach will make your work more cohesive and relevant to your audience's interests in AI regulation.
-
-
-Got it! To achieve your research goals without interviews, you can rely on online sources like Google, Twitter, forums, academic databases, and media articles. Here's how the project could be structured using these tools for a more feasible approach:
-
 ---
 
 ### **Decoding Common Memes About AI in California's Legislative Landscape**
@@ -143,6 +137,29 @@ This project will analyze how common AI-related memes influence public perceptio
 
 2. **Categorization of AI Memes:**
    - Group the identified memes based on thematic focus (privacy, economic implications, security risks). Analyze the tone and framing of these memes to understand how they shape AI-related debates.
+   Meme Identification and Classification
+2. **Categorization of AI Memes:**
+   - Group the identified memes based on thematic focus (privacy, economic implications, security risks). Analyze the tone and framing of these memes to understand how they shape AI-related debates.
+----
+#### Meme Identification and Classification
+
+
+    Categories of Analysis:
+    Safety/Risk Memes
+    a) Existential risk narratives
+    b) "AI doom" scenarios
+    c) Safety measure representations
+
+    Innovation/Competition Memes
+    a) Silicon Valley competitiveness
+    b) Innovation stifling narratives
+    c) Economic impact memes
+
+    Technical Understanding Memes
+    a) Representations of AI capabilities
+    b) Model size discussions
+    c) Safety testing concepts
+----
 
 3. **Analysis of Meme Influence:**
    - Compare the memes with key points in California’s AI laws. Examine whether these memes helped shape particular legislative focuses (e.g., privacy in AB-1008, transparency in AB-2013). Determine how the memes align or misalign with actual risks and opportunities addressed in the laws.
@@ -173,9 +190,11 @@ This project will analyze how common AI-related memes influence public perceptio
 
 4. **Media/Blog Analysis:**
    - Use sources like Wired, The Verge, and policy blogs to find AI meme discussions connected to California’s legislative decisions.
-----
-**Notes**
-misinformation:
-    - anchoring bias
-    - unawareness of revisions
-    -
+
+   ----
+
+### **Notes**
+1. misinformation:
+   - anchoring bias.
+   - unawareness of revisions.
+   - next
