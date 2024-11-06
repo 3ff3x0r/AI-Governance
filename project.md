@@ -25,7 +25,7 @@ In September 2024, California enacted several laws to regulate artificial intell
 
 - **SB 1047: Safe and Secure Innovation for Frontier AI Models Act**
   - **Overview:** Proposed stringent safety measures for large AI models, including requirements for safety protocols, testing, and whistleblower protections.
-  - **Governor's Reasoning:** Governor Gavin Newsom vetoed the bill, expressing concerns that its focus on large-scale models failed to address potential dangers from smaller models, potentially giving a false sense of security. He also highlighted the need to maintain California's competitiveness and avoid stifling innovation.
+  - **Governor's Reasoning:** Governor Gavin Newsom vetoed the bill, expressing concerns that its focus on large-scale models failed to address potential dangers from smaller models, potentially giving a false sense of security. He also highlighted the need to maintain California's competitiveness and avoid stifling innovation.
 
 ### Implications
 
