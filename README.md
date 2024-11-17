@@ -10,6 +10,16 @@ It is widely anticipated that AI will have a profound and possibly transformativ
 
 In the midst of these perspectives, regulatory proposals and legislation aim to foster a future where emerging technologies can develop responsibly. Such initiatives seek to balance the U.S.'s competitive edge in global innovation with safeguards that ensure these technologies do not harmfully disrupt other industries or compromise public welfare. California, as the heart of the U.S. technology sector, plays a pivotal role in these discussions. The state is home to many leading AI companies and research institutions, positioning it uniquely to influence both the development and oversight of AI technologies on a national and international scale.
 
+[paragrafo fazendo um resumo - melhorar]
+The strategic appropriation of discourses is not limited to public communication, but directly influences the policymaking process. A clear example is the debate surrounding Law SB1047 in California. This regulatory proposal was shaped by a range of narratives about AI, from potential risks to the need to ensure global competitiveness. After its approval, the governor's veto revealed the alignment of interests with accelerationist groups and the American geopolitical context, highlighting how discourses can be manipulated to serve specific ends.
+
+The development of artificial intelligence (AI) is a dynamic and contested field, permeated by diverse and often conflicting interests. Among the main actors in this scenario, the technology industry, academia and governments stand out. Each sector adopts narratives that, in many cases, serve their own objectives, whether to secure support, investment, or shape public policies.
+
+# topico 1: Ideological Memes and the Instrumental Use of Narratives
+
+Discourses about AI often materialize in ideological ideas and memes that simplify complex issues and shape public perceptions. Terms such as “inevitable technological revolution,” “existential risk,” or “global technology race” are used instrumentally to influence policy, attract resources, and shape stakeholder behavior. These memes are not neutral; they carry and reproduce ideological values ​​that benefit certain groups while excluding others.
+
+For example, the narrative that “AI should be developed in the West to avoid Chinese dominance” reinforces a geopolitical perspective that ignores issues such as global ethics or the unequal impacts of technological development on countries with less influence. Similarly, the discourse of “safeguarding the population from the risks of AI” often serves as a front for regulations that, in practice, protect the interests of the industry.
 
 ----
 # References (not in order)
