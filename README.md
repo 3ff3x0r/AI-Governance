@@ -17,12 +17,18 @@ The development of artificial intelligence (AI) is a dynamic and contested field
 
 [neste texto vamos discutir...]
 
+# Topico 0: The stakeholders
+
 # Topico 1: Ideological Memes and the Instrumental Use of Narratives
 
 Discourses about AI often materialize in ideological ideas and memes that simplify complex issues and shape public perceptions. Terms such as “inevitable technological revolution,” “existential risk,” or “global technology race” are used instrumentally to influence policy, attract resources, and shape stakeholder behavior. These memes are not neutral; they carry and reproduce ideological values ​​that benefit certain groups while excluding others.
 
 For example, the narrative that “AI should be developed in the West to avoid Chinese dominance” reinforces a geopolitical perspective that ignores issues such as global ethics or the unequal impacts of technological development on countries with less influence. Similarly, the discourse of “safeguarding the population from the risks of AI” often serves as a front for regulations that, in practice, protect the interests of the industry.
 
+# Topico 2: O impacto nas regulamentacoes
+## Estudo de caso: SB1047
+
+# Topico 3: Consideracoes finais
 ----
 # References (not in order)
 1. Mason, P. (2015). *Postcapitalism: A Guide to Our Future*. Discusses the potential for technology, including AI, to create a society less reliant on traditional economic scarcity.
