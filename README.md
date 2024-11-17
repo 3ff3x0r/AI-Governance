@@ -15,7 +15,9 @@ The strategic appropriation of discourses is not limited to public communication
 
 The development of artificial intelligence (AI) is a dynamic and contested field, permeated by diverse and often conflicting interests. Among the main actors in this scenario, the technology industry, academia and governments stand out. Each sector adopts narratives that, in many cases, serve their own objectives, whether to secure support, investment, or shape public policies.
 
-# topico 1: Ideological Memes and the Instrumental Use of Narratives
+[neste texto vamos discutir...]
+
+# Topico 1: Ideological Memes and the Instrumental Use of Narratives
 
 Discourses about AI often materialize in ideological ideas and memes that simplify complex issues and shape public perceptions. Terms such as “inevitable technological revolution,” “existential risk,” or “global technology race” are used instrumentally to influence policy, attract resources, and shape stakeholder behavior. These memes are not neutral; they carry and reproduce ideological values ​​that benefit certain groups while excluding others.
 
