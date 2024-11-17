@@ -1,6 +1,17 @@
 # AI-Governance
 Project for AI Governance Course
 
+In the contemporary era characterized by the ongoing technological acceleration, the complex of technologies grouped under the umbrela name of Artificial Intelligence (AI) emerges not merely as a technological artifact but as a fundamental epistemic challenge to established modes of governance and social organization.
+
+The transformative potential of AI technologies range from economic restructuring through algorithmic decision-making, societal reorganization through automated systems, and the reconfiguration of global power dynamics through computational capabilities.
+
+AI's rapid development introduces fundamental questions about power, knowledge, and decision-making in modern society. The governance of AI transcends technical considerations, revealing how different stakeholders—through their narratives and actions shape our collective approach to this technology. These narratives, functioning as memetic units of cultural transmission, influence how institutions respond to AI's challenges and opportunities.
+
+By examining the interplay between narrative formation and policy implementation, particularly in cases like California's AI legislation, this dissertation explores how competing visions of AI governance emerge and evolve.
+
+
+Central to this analysis is understanding how different groups construct, transmit, and contest ideas about AI's role in society, ultimately influencing the development of governance frameworks that must balance innovation with societal wellbeing.
+
 
 Artificial Intelligence (AI) has a longstanding history of overpromising, often leading to public disillusionment when advancements fall short of initial expectations. One of the earliest and most well-known examples occurred in the 1960s, when researchers working on artificial neural networks (ANNs) made ambitious, headline-grabbing predictions about the potential of their field. At the time, there was widespread optimism that within a decade, AI systems would achieve human-like abilities, including natural language processing, computer vision, and the ability to perform complex physical tasks, such as walking and navigating the real world (McCorduck, 2004; Russell & Norvig, 2016). However, these projections proved to be overly optimistic, and despite recent remarkable progress in areas like deep learning, it has taken over half a century to partially realize the goals envisioned by early AI pioneers. 
 
