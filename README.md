@@ -11,16 +11,10 @@ It is widely anticipated that AI will have a profound and possibly transformativ
 
 In the midst of these perspectives, regulatory proposals and legislation aim to foster a future where emerging technologies can develop responsibly. Such initiatives seek to balance the U.S.'s competitive edge in global innovation with safeguards that ensure these technologies do not harmfully disrupt other industries or compromise public welfare. California, as the heart of the U.S. technology sector, plays a pivotal role in these discussions. The state is home to many leading AI companies and research institutions, positioning it uniquely to influence both the development and oversight of AI technologies on a national and international scale.
 
-[Rewrite in a more proper way the ideological Memes and the Instrumental Use of Narratives...]
-    - Memes simplifying narratives: Terms like "existential risk" or "technological race" simplify complex ideas to influence stakeholders.
-    - Geopolitical bias in AI development discourse: Phrases like "AI in the West to counter China" reinforce Western dominance, neglecting global ethical considerations.
-    - Hidden motives in "public safety" narratives: Claims of protecting society sometimes mask industry-protective regulations.
+The governance of artificial intelligence is shaped by narratives that strategically simplify complex realities, transforming multifaceted technological landscapes into accessible and *persuasive* frames. Ideological memes—such as *existential risk* or *technological race* play a pivotal role in this process, distilling abstract challenges into rhetoric that influences public perception and policymaking. These narratives often carry deeper implications: geopolitical framings like "AI to counter China" exemplify how AI development reinforces Western dominance while sidelining broader global ethical considerations. Similarly, appeals to "public safety" can mask regulatory agendas that prioritize protecting industry interests over genuine societal well-being. By examining these narrative strategies, we intend to explore how simplified conceptual frameworks shape institutional responses to AI, intertwining technological innovation with political power. Understanding these narratives as active instruments of governance, rather than neutral descriptions, is critical to crafting equitable and transparent approaches to AI regulation.
 
-The strategic appropriation of discourses is not limited to public communication, but directly influences the policymaking process. A clear example is the debate surrounding Law SB1047 in California. This regulatory proposal was shaped by a range of narratives about AI, from potential risks to the need to ensure global competitiveness. After its approval, the governor's veto revealed the alignment of interests with accelerationist groups and the American geopolitical context, highlighting how discourses can be manipulated to serve specific ends.
 
-The development of artificial intelligence (AI) is a dynamic and contested field, permeated by diverse and often conflicting interests. Among the main actors in this scenario, the technology industry, academia and governments stand out. Each sector adopts narratives that, in many cases, serve their own objectives, whether to secure support, investment, or shape public policies.
 
-(...)
 
 
 [TO DO: Write what this text is about...]
