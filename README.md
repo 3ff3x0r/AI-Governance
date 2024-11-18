@@ -13,12 +13,6 @@ In the midst of these perspectives, regulatory proposals and legislation aim to 
 
 The governance of artificial intelligence is shaped by narratives that strategically simplify complex realities, transforming multifaceted technological landscapes into accessible and *persuasive* frames. Ideological memes — such as *existential risk* or *technological race* — play a pivotal role in this process, distilling abstract challenges into rhetoric that influences public perception and policymaking. These narratives often carry deeper implications: geopolitical framings like "AI to counter China" exemplify how AI development reinforces Western dominance while sidelining broader global ethical considerations. Similarly, appeals to "public safety" can mask regulatory agendas that prioritize protecting industry interests over genuine societal well-being. By examining these narrative strategies, we intend to explore how simplified conceptual frameworks shape institutional responses to AI, intertwining technological innovation with political power. Understanding these narratives as active instruments of governance, rather than neutral descriptions, is critical to crafting equitable and transparent approaches to AI regulation.
 
-
-
-
-
-[TO DO: Write what this text is about...]
-
 # idea 0: Why debating AI matters?
         - the recent advancements of AI
             * The emergence of Generative AI
