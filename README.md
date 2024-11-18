@@ -165,7 +165,7 @@ For example, the narrative that “AI should be developed in the West to avoid C
 [List ideas to present, give suggestion for how to handle a better discourse on AI, think about more things]
 
 ----
-# References (not in order)
+# References (not in order - figure out how to add to the text using LATEX)
 1. Mason, P. (2015). *Postcapitalism: A Guide to Our Future*. Discusses the potential for technology, including AI, to create a society less reliant on traditional economic scarcity.
 2. Susskind, D. (2020). *A World Without Work: Technology, Automation, and How We Should Respond*. Explores the implications of automation on socioeconomic divisions and the future of work.
 3. Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Examines existential risks associated with advanced AI systems.
