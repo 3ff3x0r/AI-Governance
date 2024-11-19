@@ -36,26 +36,17 @@ Generative AI also facilitates the production of hyper-realistic deepfakes and f
 
 International collaboration is essential to ensure AI development and deployment align with human rights and democratic values. At the same time, AI-powered surveillance technologies are strengthening authoritarian regimes by suppressing dissent and tightening control over populations. Examples include China’s use of facial recognition in its social credit system and predictive policing tools, which undermine civil liberties and consolidate power.
 
-AI training is highly energy-intensive, raising significant concerns about its environmental impact. Training a single large model can produce carbon emissions equivalent to the lifetime emissions of five cars, including their manufacturing (Strubell et al., 2019). This environmental toll is exacerbated by the increasing scale and complexity of AI models, which demand substantial computational resources. These concerns emphasize the urgent need for energy-efficient AI algorithms, sustainable computing infrastructure, and regulations that enforce environmentally conscious AI practices. Innovations like sparsity-based models, improved hardware efficiency, and the use of renewable energy in data centers offer promising directions for mitigating these impacts.
+AI training is highly energy-intensive, raising significant concerns about its environmental impact. Training a single large model can produce carbon emissions equivalent to the lifetime emissions of five cars, including their manufacturing [(Strubell et al., 2019)](https://arxiv.org/abs/1906.02243). This environmental toll is exacerbated by the increasing scale and complexity of AI models, which demand substantial computational resources. These concerns emphasize the urgent need for energy-efficient data centers, that relies on efficient hardware and makes use of renewable energy,  and regulations that enforce environmentally conscious AI practices for mitigating these impacts.
 
-Beyond environmental considerations, AI presents profound long-term risks that could reshape humanity’s trajectory. Experts like Nick Bostrom have highlighted scenarios where advanced AI systems, poorly aligned with human values, act in ways that are unpredictable or optimize for objectives harmful to human welfare (Bostrom, 2014). For example, misaligned AI could prioritize efficiency over ethical considerations, leading to unintended consequences in areas such as healthcare, governance, or military applications. These risks are compounded by the possibility of "value lock-in," where systems perpetuate flawed goals indefinitely due to their superior capabilities.
+Beyond environmental considerations, AI presents profound long-term risks that could reshape humanity’s trajectory. [Experts](https://www.safe.ai/work/statement-on-ai-risk) have highlighted scenarios where advanced AI systems, poorly aligned with human values, act in ways that are unpredictable or optimize for objectives harmful to human welfare. For example, misaligned AI could prioritize efficiency over ethical considerations, leading to unintended consequences in areas such as healthcare, governance, or military applications. These risks are compounded by the possibility of "value lock-in," where systems perpetuate flawed goals indefinitely due to their superior capabilities.
 
-Addressing these existential risks requires a multi-pronged approach. Rigorous research into AI alignment—ensuring that AI systems’ goals remain compatible with human values—is critical. This includes developing robust frameworks for goal-setting, interpretability, and error correction in AI systems. Additionally, international cooperation is essential to establish standards for responsible AI development, such as the Asilomar AI Principles, which advocate for transparency, safety, and shared benefit. Policymakers, industry leaders, and researchers must collaborate to create legal and ethical guidelines that govern AI development, deployment, and monitoring.
-
----
-
-**References**
-- Strubell, E., Ganesh, A., & McCallum, A. (2019). *Energy and Policy Considerations for Deep Learning in NLP*. Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics.
-- Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press.
-- Future of Life Institute. (2017). *Asilomar AI Principles*. Retrieved from [futureoflife.org](https://futureoflife.org/).
+Addressing these existential risks requires a multi-pronged approach. Rigorous research into AI alignment—ensuring that AI systems’ goals remain compatible with human values—is critical. This includes developing robust frameworks for goal-setting, interpretability, and error correction in AI systems. Policymakers, industry leaders, and researchers must collaborate across the globe to create legal and ethical guidelines that govern AI development, deployment, and monitoring.
 
 
 
 
 
 
-
-AI training is energy-intensive, raising concerns about its environmental impact. A single large model training session can emit carbon equivalent to the lifetime emissions of five cars (Strubell et al., 2019). The environmental toll highlights a need for energy-efficient AI solutions and regulations mandating sustainability in AI practices. Beyond immediate concerns, AI raises long-term risks that could reshape humanity's trajectory. Experts like Nick Bostrom warn of scenarios in which advanced AI systems, insufficiently aligned with human values, act unpredictably or optimize for goals at odds with human welfare (Bostrom, 2014). These risks underscore the need for rigorous research into AI alignment and international frameworks for responsible AI development.
 
 
 ---
