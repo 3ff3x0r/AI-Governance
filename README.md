@@ -68,13 +68,6 @@ Beyond immediate concerns, AI raises long-term risks that could reshape humanity
 These risks underscore the need for rigorous research into AI alignment and international frameworks for responsible AI development.
 
 
-
-### Framing the Debate
-
-These issues highlight the dual-edged nature of AI: it has the power to transform society for the better, but its risks are equally significant. Debating AI governance is not merely a technical or academic exercise—it is a moral imperative.
-
-By situating these discussions within broader debates on technological determinism, we can critically assess the assumption that technology inevitably shapes society in predetermined ways. Instead, we must recognize that human agency and governance play central roles in directing AI's trajectory.
-
 ---
 
 
