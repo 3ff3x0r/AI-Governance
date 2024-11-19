@@ -39,17 +39,17 @@ Generative AI systems, like GPT-3 and DALL-E, have revolutionized content creati
 The lawsuits against generative AI developers for allegedly infringing copyright highlight this tension. These cases will likely shape the boundaries of intellectual property law in the AI era (The Verge, 2023). At the same time, generative models risk amplifying biases present in their training data, demonstrating that technical sophistication does not equate to fairness or neutrality (Bender et al., 2021).
 
 ##### **2. Scaling Computational Power**
-Generative AI’s rise is tied to breakthroughs in computational power. Companies like NVIDIA have developed GPUs and specialized chips enabling the training of massive models, democratizing AI development to some degree. However, this technological arms race privileges resource-rich organizations, creating a power imbalance where smaller players and nonprofits struggle to compete.
+Generative AI’s rise is tied to breakthroughs in computational power. Companies like NVIDIA have developed GPUs and specialized AI chips enabling the training of massive models, democratizing AI development to some degree. However, when it comes to frontier models, this technological arms race privileges resource-rich organizations, creating a power imbalance where smaller players struggle to compete.
 
 This transformation occurs within what Castells terms the "network society," where computational power and data access increasingly determine economic and social opportunity. The rapid scaling of AI capabilities, enabled by advances in computing infrastructure, creates new forms of digital divide, potentially exacerbating existing socio-economic inequalities.
 
 ##### **3. Immediate Societal Disruptions**
-Generative AI has already begun disrupting how people interact with technology. Tools like ChatGPT assist with education, content generation, and customer service, but they also pose risks of over-reliance and misinformation. This immediate societal integration emphasizes the urgency of addressing governance issues before harms become entrenched.
+Generative AI has already begun disrupting how people interact with technology. Tools like ChatGPT assist with education, content generation, and customer service, but they also pose risks of over-reliance and can be coopted for spreading misinformation. This immediate societal integration emphasizes the urgency of addressing governance issues before harms become entrenched.
 
 #### **B. Societal Implications**
 
 ##### **4. Labor Market Transformations**
-Automation driven by AI is transforming labor markets globally. While AI enhances productivity by automating routine and even specialized tasks, it displaces millions of jobs. The World Economic Forum estimates that automation could replace 85 million jobs by 2025 while creating 97 million new roles (WEF, 2020). However, the transition may disproportionately affect workers in lower-income brackets, exacerbating economic inequality.
+Automation driven by AI is transforming labor markets globally. While AI enhances productivity by automating routine and even specialized tasks, it displaces millions of jobs. The World Economic Forum estimates that automation could replace 85 million jobs by 2025 while creating 97 million new roles (WEF, 2020). However, the transition may disproportionately affect workers in lower-income brackets and entry level jobs, reducing their economic mobility.
 
 ##### **5. Socio-Technical Implications & Platform Governance**
 AI systems are increasingly integrated into platforms that govern significant aspects of modern life, such as social media algorithms, content moderation, and recommendation engines. These systems shape political discourse, amplify societal polarization, and determine whose voices are amplified or silenced.
@@ -67,7 +67,7 @@ Without intentional efforts to mitigate bias, AI systems risk entrenching histor
 ##### **8. Digital Divide Implications**
 The digital divide—the gap between those with access to technology and those without—is widened by AI. Wealthier nations and individuals reap the benefits of cutting-edge tools, while underprivileged communities face barriers to access and adoption.
 
-AI also deepens inequalities in global innovation, with technological hegemony concentrated in the West. Developing nations risk becoming passive recipients of AI technologies that fail to address their specific needs or respect their cultural values. Bridging this divide requires deliberate policy measures to ensure equitable access and meaningful global participation in AI development.
+AI also deepens inequalities in global innovation, with technological hegemony concentrated in the few places, like San Francisco, New York, Beijing and London. Developing nations, like those in the Global South, risk becoming passive recipients of AI technologies that fail to address their specific needs or respect their cultural values. Bridging this divide requires deliberate policy measures to ensure equitable access and meaningful global participation in AI development.
 
 #### **C. Information Ecosystem Challenges**
 
