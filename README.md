@@ -17,16 +17,6 @@ The governance of artificial intelligence is shaped by narratives that strategic
 ---
 ### Why Debating AI Matters
 
-``` # idea 0: Why debating AI matters?
-        - the recent advancements of AI
-            * The emergence of Generative AI
-            * The fast scaling up of computer processing power
-            * Social changes due to incorporating AI in the job market
-            * Bias in the models
-            * Copyright of the contents on the training datasets
-            * Energy costs and environmental impact of AI
-            * AI as a tool on spreading desinformation
-```
 Generative AI systems, like GPT-3 and DALL-E, have revolutionized content creation, enabling individuals and industries to produce human-like text, images, and even code at scale. While their benefits are undeniable — spanning education, marketing, and research — they also challenge long-standing frameworks of originality and intellectual property.
 
 The lawsuits against generative AI developers for allegedly infringing copyright under the banner of fair use highlight this tension. These cases will likely shape the boundaries of intellectual property law in the AI era [(The Verge, 2023)](https://www.theverge.com/23444685/generative-ai-copyright-infringement-legal-fair-use-training-data). At the same time, generative models risk amplifying biases present in their training data, demonstrating that technical sophistication does not equate to fairness or neutrality (Bender et al., 2021).
