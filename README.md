@@ -120,28 +120,22 @@ In AI narratives, memes function as cognitive heuristics, where complex technolo
 In the context of AI discourse, memetic structures manifest through three distinct but interconnected mechanisms:
 1. Mythological-Narrative Templates
 AI narratives frequently align with foundational cultural archetypes as
-- The Prometheus archetype in artificial intelligence creation narratives
-- The Golem motif in discussions of AI control
-- The Cassandra paradigm in AI risk predictions
+- Creation Narratives (Prometheus)
+- Control Paradigms (Golem)
+- Prophetic Warnings (Cassandra)
 
-2. Cognitive-Conceptual Schemas
-- Anthropomorphic metaphors of machine intelligence: maps human characteristics onto AI systems
-- Computational metaphors of human cognition:  The human mind is just a software runing on the brain
-- Network metaphors of distributed intelligence: intelligence as an emergent property of the interaction of the agents in an environment
+2. Economic Ideologies
+- Market Efficiency Framework
+- Technological Hegemony
+- Democratization vs. Centralization
 
 3. Socio-Ideological Constructs
-- The optimization narrative (AI as efficiency maximizer)
-- The control narrative (AI as potential threat)
-- The redemption narrative (AI as societal savior)
-- The transcendence narrative (AI as evolutionary step)
+- AI as potential threat
+- AI as societal savior
+- AI as evolutionary step
 
 
-
-
-
-Memes operate as cultural and ideological catalysts, translating societal concerns into actionable policies. However, this influence is double-edged. While effective at mobilizing public sentiment, memes can also promote policy myopia by prioritizing urgent responses over deliberative policymaking.
-
-The ubiquity of memetic thinking in AI governance presents both opportunities and challenges. On one hand, memes effectively distill complexity, making abstract concepts accessible. On the other, their reductive nature risks oversimplifying nuanced debates.
+Memes operate as cultural and ideological catalysts, translating societal concerns into actionable policies. However, this influence is double-edged. While effective at mobilizing public sentiment, memes can also promote policy myopia by prioritizing urgent responses over deliberative policymaking. The ubiquity of memetic thinking in AI governance presents both opportunities and challenges. On one hand, memes effectively distill complexity, making abstract concepts accessible. On the other, their reductive nature risks oversimplifying nuanced debates.
 
 
 # Memes Possible Influence Mechanisms in AI Governance
