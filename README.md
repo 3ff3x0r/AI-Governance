@@ -185,27 +185,27 @@ The proposed legislation, **SB 1047**, sparked intense debate among prominent fi
 On one side, notable proponents of the bill included Dario Amodei, CEO of the AI research company **Anthropic**, alongside leading AI scientists Yoshua Bengio and Geoffrey Hinton, both of whom were awarded the Nobel Prize in 2024 for their groundbreaking contributions to deep learning. Advocates from the entertainment industry also championed the legislation, emphasizing the need for protective measures against AI misuse in creative domains. Furthermore, Elon Musk, who has been vocal about AI safety and is involved with his AI company, **xAI**, publicly expressed support for SB 1047, aligning with those advocating for stricter safety regulations.
 
 
-![Figure 1: Add descriptive caption here](picture1.png)
+![Figure 1: Yann LeCun](picture1.png)
 
-![Figure 2: Add descriptive caption here](picture3.png)
+![Figure 2: Hollywood suport SB1047](picture3.png)
 
 
 
-In opposition, several influential tech giants and industry leaders criticized the bill, citing concerns about its potential to hinder innovation. Companies like **Google** and **Meta** — leaders in AI research — were firmly against the legislation. Additionally, Sam Altman, CEO of **OpenAI**, and Andreessen Horowitz, representing the investment firm **a16z**, argued that the bill's stringent requirements could stifle progress and overburden developers. Notably, Professor Fei-Fei Li, a pioneering AI researcher and founder of **AI4ALL**, and Yan Le Cunn — who too was awarded Nobel Prize this year —,  also voiced opposition, advocating for alternative approaches to addressing AI risks that would not impede the pace of technological development.
+In opposition, several influential tech giants and industry leaders criticized the bill, citing concerns about its potential to hinder innovation. Companies like **Google** and **Meta** — leaders in AI research — were firmly against the legislation. Additionally, Sam Altman, CEO of **OpenAI**, and Andreessen Horowitz, representing the investment firm **a16z**, argued that the bill's stringent requirements could stifle progress and overburden developers. Notably, Professor Fei-Fei Li, a pioneering AI researcher and founder of **AI4ALL**, and Yann LeCun — who too was awarded Nobel Prize this year —,  also voiced opposition, advocating for alternative approaches to addressing AI risks that would not impede the pace of technological development.
 
-![Figure 3: Add descriptive caption here](picture2.png)
+![Figure 3: Big tech is a friend, government actions are not](picture2.png)
 
 ####  Examining the Discourse Around SB1047
 
 The debate over California's SB1047, a proposed bill addressing AI regulation, showcases a fascinating interplay of narratives and ideologies, revealing the underlying tensions in AI governance. Key stakeholders, including researchers, policymakers, and media outlets, leverage various frameworks to argue for or against the bill. By [analyzing these perspectives](Meme%20highlights.md), we gain insight into the broader challenges of balancing innovation, safety, and regulation in AI development.
 
-![Figure 4: Add descriptive caption here](picture5.png)
+![Figure 4: You should act on panic](picture5.png)
 
 ##### **The Mythological Narrative: Creation and Prophecy**
 
 Prominent AI researcher and author of one of most used Artificial Intelligence textbooks Stuart Russell, in his [LinkedIn post](https://www.linkedin.com/posts/stuartjonathanrussell_by-monday-californias-governor-gavin-newsom-activity-7245474519958589440-4vyV), framed AI development as a modern Promethean endeavor — ambitious yet perilous. Russell’s rhetoric evokes "creation narratives," portraying AI as a product of human ingenuity but one with potentially overwhelming consequences. He warns of existential risks, quantifying the danger with statements like “a risk of human extinction ranging from 10% to 30%.”
 
-![Figure 5: Add descriptive caption here](picture4.png)
+![Figure 5: Stuart Russell open letter](picture4.png)
 
 This theme of prophetic warnings is not unique to Russell. It reflects a broader "Cassandra complex" within the AI discourse, where experts sound alarms about catastrophic futures. Such narratives resonate with fears that humanity might be unleashing forces beyond its control — a framing that amplifies the urgency of regulation.
 
@@ -217,7 +217,7 @@ The debate over democratization versus centralization is a core theme in discuss
 
 Adding to this, the bill’s regulatory complexity presents further obstacles for small-scale developers. The requirements for safety measures, such as robust compliance systems and detailed testing protocols, could overwhelm startups lacking dedicated legal and compliance departments. In contrast, larger corporations often have the resources to absorb these costs and meet regulatory standards, giving them a significant competitive advantage. These critiques are detailed in an [*Ars Technica* article](https://arstechnica.com/information-technology/2024/07/from-sci-fi-to-state-law-californias-plan-to-prevent-ai-catastrophe/), which warns that SB1047’s unintended consequences might hinder smaller developers while empowering established tech giants, further entrenching centralization in the AI sector.
 
-![Figure 6: Add descriptive caption here](picture6.png)
+![Figure 6: Andrew Ng opposing SB1047](picture6.png)
 
 ##### **Socio-Ideological Constructs: Threats and Practical Concerns**
 
@@ -227,11 +227,11 @@ AI’s potential societal impact is a recurring theme in the SB1047 debate. Oppo
 
 Governor Gavin Newsom’s decision to veto SB1047 added another layer to this complex narrative. In his [veto message](https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-1047-Veto-Message.pdf), Newsom underscored California’s role as a global leader in AI innovation. He warned that focusing solely on large-scale models might overlook the risks posed by smaller systems, creating blind spots in regulatory efforts. Moreover, Newsom expressed fears that stringent rules could drive investment and innovation away from California, potentially centralizing power within large corporations.
 
-![Figure 7: Add descriptive caption here](picture7.png)
+![Figure 7: Terminator is comming](picture7.png)
 
 By emphasizing "freedom of thought and experimentation," Newsom evoked a mythological narrative of California as the Promethean state, where creativity and risk-taking fuel technological progress. His concerns reflect broader tensions between safeguarding innovation and addressing the ethical and societal risks of AI.
 
-![Figure 8: Add descriptive caption here](picture8.png)
+![Figure 8: Don't make US another EU](picture8.png)
 
 ---
 
