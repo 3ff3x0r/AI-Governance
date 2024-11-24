@@ -155,8 +155,9 @@ Memes operate as cultural and ideological catalysts, translating societal concer
 *This list does not intend to be complete, as many other memes can be added.
 
 
+---
 
-##### The impact on laws and regulations on AI
+### Memes impact on laws and regulations on AI
 
 As artificial intelligence increasingly permeates various facets of society, governments worldwide are enacting legislation to address the opportunities and challenges it presents. Recent AI-related laws emphasize themes like transparency, ethical use, accountability, and consumer protection, aiming to balance innovation with societal safeguards. These legislations respond to growing concerns about the ethical implications of AI, its transformative potential across industries, and the risks it poses if left unchecked.
 
