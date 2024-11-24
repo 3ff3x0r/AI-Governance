@@ -191,9 +191,9 @@ The **Safe and Secure Innovation for Frontier AI Models Act (SB 1047)** represen
 
 The proposed legislation, **SB 1047**, sparked intense debate among prominent figures and groups within the AI and technology sectors, polarizing the discourse into two distinct camps.
 
-On one side, notable proponents of the bill included **Dario Amodei**, CEO of the AI research company **Anthropic**, alongside leading AI scientists **Yoshua Bengio** and **Geoffrey Hinton**, both of whom were awarded the Nobel Prize in 2024 for their groundbreaking contributions to deep learning. Advocates from the entertainment industry also championed the legislation, emphasizing the need for protective measures against AI misuse in creative domains. Furthermore, **Elon Musk**, who has been vocal about AI safety and is involved with his AI company, **xAI**, publicly expressed support for SB 1047, aligning with those advocating for stricter safety regulations.
+On one side, notable proponents of the bill included Dario Amodei, CEO of the AI research company **Anthropic**, alongside leading AI scientists Yoshua Bengio and Geoffrey Hinton, both of whom were awarded the Nobel Prize in 2024 for their groundbreaking contributions to deep learning. Advocates from the entertainment industry also championed the legislation, emphasizing the need for protective measures against AI misuse in creative domains. Furthermore, Elon Musk, who has been vocal about AI safety and is involved with his AI company, **xAI**, publicly expressed support for SB 1047, aligning with those advocating for stricter safety regulations.
 
-In opposition, several influential tech giants and industry leaders criticized the bill, citing concerns about its potential to hinder innovation. Companies like **Google** and **Meta**—leaders in AI research—were firmly against the legislation. Additionally, **Sam Altman**, CEO of **OpenAI**, and **Andreessen Horowitz**, representing the investment firm **a16z**, argued that the bill's stringent requirements could stifle progress and overburden developers. Notably, **Professor Fei-Fei Li**, a pioneering AI researcher and founder of **AI4ALL**, also voiced opposition, advocating for alternative approaches to addressing AI risks that would not impede the pace of technological development.
+In opposition, several influential tech giants and industry leaders criticized the bill, citing concerns about its potential to hinder innovation. Companies like **Google** and **Meta** — leaders in AI research — were firmly against the legislation. Additionally, Sam Altman, CEO of **OpenAI**, and Andreessen Horowitz, representing the investment firm **a16z**, argued that the bill's stringent requirements could stifle progress and overburden developers. Notably, Professor Fei-Fei Li, a pioneering AI researcher and founder of **AI4ALL**, and Yan Le Cunn — who too was awarded Nobel Prize this year —,  also voiced opposition, advocating for alternative approaches to addressing AI risks that would not impede the pace of technological development.
 
 
 ####  Examining the Discourse Around SB1047
@@ -225,7 +225,6 @@ Governor Gavin Newsom’s decision to veto SB1047 added another layer to this co
 By emphasizing "freedom of thought and experimentation," Newsom evoked a mythological narrative of California as the Promethean state, where creativity and risk-taking fuel technological progress. His concerns reflect broader tensions between safeguarding innovation and addressing the ethical and societal risks of AI.
 
 ---
-
 
 ### Final Considerations
 
