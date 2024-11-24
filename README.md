@@ -226,7 +226,7 @@ AI’s potential societal impact is a recurring theme in the SB1047 debate. Oppo
 
 Governor Gavin Newsom’s decision to veto SB1047 added another layer to this complex narrative. In his [veto message](https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-1047-Veto-Message.pdf), Newsom underscored California’s role as a global leader in AI innovation. He warned that focusing solely on large-scale models might overlook the risks posed by smaller systems, creating blind spots in regulatory efforts. Moreover, Newsom expressed fears that stringent rules could drive investment and innovation away from California, potentially centralizing power within large corporations.
 
-![Figure 7: Terminator is comming](https://x.com/i/status/1838787532873699784)
+![Figure 7: Terminator is comming](picture7.png)([Video]https://x.com/i/status/1838787532873699784)
 
 By emphasizing "freedom of thought and experimentation," Newsom evoked a mythological narrative of California as the Promethean state, where creativity and risk-taking fuel technological progress. His concerns reflect broader tensions between safeguarding innovation and addressing the ethical and societal risks of AI.
 
