@@ -227,16 +227,43 @@ By emphasizing "freedom of thought and experimentation," Newsom evoked a mytholo
 ---
 
 
-# Idea 4: Final considerations
-...
-for tomorrow...
-1. memes are shorthand for ideas, but they also have unintended working as virus. One can become vaccinated agains it
-2. A debate as AI demand a more honest approach, pushing memes is useful in a first contatc with the subject, but when it comes to action it is needed a more critical approach to actually explain the wide context of the issues
-3. Memes work in favor of regulatory capture, and gatekeep others that could have important input on the subject
-4. Finding a consensus cannot be met through pushing scarecrow fallacy, AI risks are real and a complex matter that demands an hones dialog to be approached, doomsday profecies about upcoming killing robots,, as media portraid days before the veto of SB1047, as a disservice to governance.
-5. Memes aren't inherently good or bad, and relying on them is a choice that demands careful consideration.
-6. One evident shortcoming of using memes is the flatness of it's presentation, that may drive away people that where once exposed to similar ideas before, acting like vaccination against similarly framed concepts
-7. 
+### Final Considerations
+
+The governance of artificial intelligence sits at the intersection of technological innovation, societal narratives, and institutional dynamics. We have examined how narrative structures, ideological frameworks, and stakeholder priorities shape AI policy and regulation. These interconnected elements underscore both the challenges and opportunities in crafting governance mechanisms that balance innovation with societal well-being.
+
+
+#### **The Role of Narratives in AI Governance**
+
+Narratives serve as more than rhetorical devices; they actively shape governance outcomes by influencing policy priorities and resource allocation. As can be depreended from debates surrounding California's SB1047, narratives such as existential risks, economic imperatives, and social justice concerns are powerful tools for mobilizing stakeholders. However, the prevalence of these narratives raises critical questions about inclusivity. Whose voices are amplified in governance discussions? Whose concerns are sidelined? While narratives like "AI extinction risk" and "technological race" effectively simplify complex technological debates, they also risk promoting reactive policymaking. Policymakers must ensure that governance decisions are grounded in nuanced, evidence-based assessments.
+
+#### **Central Tensions in AI Governance**
+
+Governor Newsom’s veto of SB1047 highlighted these challenges, citing the potential for regulatory blind spots and the risk of stifling innovation. While safety-focused advocates emphasize the need for stringent oversight, particularly for frontier models with transformative capabilities. As seen in SB1047 debates, this dichotomy reflects deeper concerns about power dynamics within the AI ecosystem.
+
+The digital divide—manifested in disparities between resource-rich organizations and smaller players—remains a pressing concern. Without deliberate interventions, AI risks exacerbating global inequalities, marginalizing initiatives and startups that lack access to computational power, data infrastructure, or governance influence.
+
+The risk of regulatory capture looms large in AI governance, with influential corporations possibly shaping regulations to their advantage. This dynamic can entrench existing power imbalances, limiting the scope for innovation and public interest advocacy. Robust oversight mechanisms and transparency in policymaking are essential to counteract these risks.
+
+#### **Priorities for Effective Governance**
+
+1. **Global Coordination:**
+International collaboration is critical for addressing AI's cross-border implications. Initiatives like the EU AI Act and China’s regulatory frameworks offer valuable lessons on balancing regional priorities with global cooperation. Such efforts can set precedents for harmonizing innovation with societal safeguards.
+
+2. **Inclusive Dialogue:**
+Effective governance frameworks must facilitate participation from a diverse range of stakeholders, particularly from the Global South, that usually lags behind technological advances. These perspectives are essential for ensuring that AI technologies serve global, not just regional or corporate, interests.
+
+3. **Transparency and Accountability:**
+Governance frameworks must prioritize openness in AI development. Clear labeling of AI-generated content, robust whistleblower protections, and mechanisms for independent oversight are vital for building public trust and ensuring ethical deployment.
+
+4. **Adaptive Regulation:**
+The rapid pace of AI advancement demands flexible governance mechanisms that evolve alongside technological change. Policymakers must balance this adaptability with the need for consistency in ethical principles and accountability measures.
+
+5. **Evidence-Based Policymaking:**
+While narratives are valuable for mobilizing action, governance decisions must be informed by rigorous, empirical analyses of AI's risks and benefits. Mechanisms like impact assessments, safety evaluations, and real-world testing can help ensure policies address tangible challenges rather than speculative fears.
+
+#### **Conclusion**
+
+The future of AI governance requires transcending binary debates, such as innovation versus regulation, to holistically address the societal impacts of advancing technologies. Central to this effort are the narratives that shape public understanding and policy decisions—powerful tools that must be used carefully to balance urgency with deliberation. Effective governance depends on integrating diverse perspectives, promoting equity and sustainability, and relying on evidence-based frameworks that reflect the dynamic nature of AI capabilities. As highlighted throughout our analysis, inclusive collaboration among stakeholders, attention to global coordination, and proactive policies are essential to ensure that AI serves as a force for societal progress rather than an unchecked catalyst for harm. With risks and opportunities accelerating in tandem, the time for action is now—to craft systems that empower humanity while safeguarding against catastrophic outcomes.
 
 ### List of works cited in the text
 
