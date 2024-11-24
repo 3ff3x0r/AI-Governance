@@ -1,6 +1,6 @@
 # The Power of Narratives in AI Governance: Shaping Risks, Framing Rewards, and Guiding Policies
-## Project for AI Governance Course
-#### by Leon Erickson
+## *Project for AI Governance Course*
+#### by *Leon Erickson*
 
 
 ### AI Governance: Navigating Narratives
