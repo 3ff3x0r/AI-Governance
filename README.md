@@ -109,7 +109,7 @@ The organizational dynamics of the AI industry reflect its unique challenges and
 
 ### Ideological Memes and the Instrumental Use of Narratives
 
-### 1. Defining Memes in Context
+#### Defining Memes in Context
 
 In the context of AI discourse, memes function as sophisticated vehicles for cultural transmission, transcending their contemporary association with internet humor. Originally defined by Richard Dawkins (1976, p. 192) in The Selfish Gene as *units of cultural transmission, or units of imitation*, memes operate as fundamental replicators of cultural information: examples of memes are *tunes, ideas, catch-phrases, clothes fashions, ways of making pots or of building arches*. This definition establishes memes as discrete cultural units that propagate through social systems via processes analogous to genetic transmission.
 These cultural replicators manifest as ideological constructs—structured patterns of thought that shape collective understanding and behavior. As Dennett (1995, p. 341) elaborates in Darwin's Dangerous Idea, memes are *distinct memorable units* that compete for cognitive and cultural prominence. Building on this foundation, Blackmore (2000, p. 43) in The Meme Machine demonstrates how memes function as *instructions for carrying out behavior, stored in brains (or other objects) and passed on by imitation*. This conceptualization helps explain how technological anxieties and aspirations spread through society, particularly in discourse about artificial intelligence.
@@ -138,7 +138,7 @@ AI narratives frequently align with foundational cultural archetypes as
 Memes operate as cultural and ideological catalysts, translating societal concerns into actionable policies. However, this influence is double-edged. While effective at mobilizing public sentiment, memes can also promote policy myopia by prioritizing urgent responses over deliberative policymaking. The ubiquity of memetic thinking in AI governance presents both opportunities and challenges. On one hand, memes effectively distill complexity, making abstract concepts accessible. On the other, their reductive nature risks oversimplifying nuanced debates.
 
 
-# Memes Possible Influence Mechanisms in AI Governance
+##### Memes Possible Influence Mechanisms in AI Governance
 
 | **Memetic Type**        | **Mythological-Narrative Templates**                                                                                 | **Economic Ideologies**                                                                            | **Socio-Ideological Constructs**                                                 |
 |--------------------------|---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
@@ -155,11 +155,11 @@ Memes operate as cultural and ideological catalysts, translating societal concer
 
 
 
-### The impact on laws and regulations on AI
+##### The impact on laws and regulations on AI
 
 As artificial intelligence increasingly permeates various facets of society, governments worldwide are enacting legislation to address the opportunities and challenges it presents. Recent AI-related laws emphasize themes like transparency, ethical use, accountability, and consumer protection, aiming to balance innovation with societal safeguards. These legislations respond to growing concerns about the ethical implications of AI, its transformative potential across industries, and the risks it poses if left unchecked.
 
-### Key Areas of Focus in AI Legislation
+##### Key Areas of Focus in AI Legislation
 
 1. **Transparency in AI Operations**
    Laws such as **AB 2013** require AI developers to disclose detailed information about training datasets, promoting openness in AI development. Such measures aim to demystify AI systems for users and stakeholders, fostering trust by clarifying how these systems are designed and operated.
@@ -174,7 +174,7 @@ As artificial intelligence increasingly permeates various facets of society, gov
    Legislation like **SB 942**, known as the AI Transparency Act, focuses on identifying and labeling AI-generated content. By making consumers aware of AI involvement, such laws address concerns about deception, misinformation, and malicious uses of AI, while encouraging innovation.
 
 
-### Case Study: **SB 1047 - Safe and Secure Innovation for Frontier AI Models Act**
+##### Case Study: **SB 1047 - Safe and Secure Innovation for Frontier AI Models Act**
 
 The **Safe and Secure Innovation for Frontier AI Models Act (SB 1047)** represents a legislative effort aimed at implementing safety protocols for advanced artificial intelligence systems, particularly large-scale frontier AI models. The bill sought to establish a regulatory framework to ensure the safety and ethical development of frontier AI systems representing a proactive approach to mitigating risks associated with powerful AI systems, focusing on large models with significant societal influence. Key provisions included:
 
