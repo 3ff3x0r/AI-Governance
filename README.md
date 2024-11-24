@@ -234,6 +234,9 @@ for tomorrow...
 2. A debate as AI demand a more honest approach, pushing memes is useful in a first contatc with the subject, but when it comes to action it is needed a more critical approach to actually explain the wide context of the issues
 3. Memes work in favor of regulatory capture, and gatekeep others that could have important input on the subject
 4. Finding a consensus cannot be met through pushing scarecrow fallacy, AI risks are real and a complex matter that demands an hones dialog to be approached, doomsday profecies about upcoming killing robots,, as media portraid days before the veto of SB1047, as a disservice to governance.
+5. Memes aren't inherently good or bad, and relying on them is a choice that demands careful consideration.
+6. One evident shortcoming of using memes is the flatness of it's presentation, that may drive away people that where once exposed to similar ideas before, acting like vaccination against similarly framed concepts
+7. 
 
 ### List of works cited in the text
 
