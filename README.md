@@ -1,5 +1,5 @@
 # The Power of Narratives in AI Governance: Shaping Risks, Framing Rewards, and Guiding Policies
-## *Project for AI Governance Course*
+## *Project on AI Safety Fundamental at BlueDot Impact for [AI Governance Course](https://aisafetyfundamentals.com/governance/)*
 #### by *Leon Erickson*
 
 
