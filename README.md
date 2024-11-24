@@ -21,6 +21,8 @@ In the midst of these perspectives, regulatory proposals and legislation aim to 
 
 The governance of artificial intelligence is shaped by narratives that strategically simplify complex realities, transforming multifaceted technological landscapes into accessible and *persuasive* frames. Ideological memes — such as *existential risk* or *technological race* — play a pivotal role in this process, distilling abstract challenges into rhetoric that influences public perception and policymaking. These narratives often carry deeper implications: geopolitical framings like "AI to counter China" exemplify how AI development reinforces Western dominance while sidelining broader global ethical considerations. Similarly, appeals to "public safety" can mask regulatory agendas that prioritize protecting industry interests over genuine societal well-being.
 
+The role of influential ideologies and organizations in shaping AI safety narratives cannot be overstated. Effective Altruism (EA), a philosophical movement focused on maximizing positive global impact, has played a pivotal role in driving discourse around existential risks posed by advanced AI. Organizations like the Center for AI Safety (CAIS), which aligns with EA principles and has received substantial funding from EA-aligned philanthropies, have become central players in advocating for stringent AI safety measures. By framing AI development as a potential existential threat, these organizations influence policy priorities and regulatory approaches, emphasizing long-term risks over immediate concerns like accessibility and equity. This influence is evident in California's SB 1047, which not only codifies third-party audits but also establishes a precedent for government oversight of AI safety.
+
 By examining these narrative strategies, we intend to explore how simplified conceptual frameworks shape institutional responses to AI, intertwining technological innovation with political power. Understanding these narratives as active instruments of governance, rather than neutral descriptions, is critical to crafting equitable and transparent approaches to AI regulation.
 
 
@@ -255,16 +257,7 @@ By emphasizing "freedom of thought and experimentation," Newsom evoked a mytholo
 23. Edwards, B., & Orland, K. (2024, July 29). From sci-fi to state law: California's plan to prevent AI catastrophe. *Ars Technica*. https://arstechnica.com/information-technology/2024/07/from-sci-fi-to-state-law-californias-plan-to-prevent-ai-catastrophe
 24. World Economic Forum. (2020). *The future of jobs report 2020*. World Economic Forum. https://www.weforum.org/reports/the-future-of-jobs-report-2020
 
----
 
-### Summary of Changes:
-1. Missing URLs for **Clifford**, **The Verge**, and **Vincent et al.** were added.
-2. Adjusted the **Vincent et al.** entry to reflect full authorship (Benj Edwards and Kyle Orland) and date details.
-3. Removed the entries for California bills, per your request.
-
-This list is now complete and fully compliant with APA style. Let me know if you need further refinements!
-
-----
 # References (not in order - figure out how to add to the text using LATEX)
 1. Mason, P. (2015). *Postcapitalism: A Guide to Our Future*. Discusses the potential for technology, including AI, to create a society less reliant on traditional economic scarcity.
 2. Susskind, D. (2020). *A World Without Work: Technology, Automation, and How We Should Respond*. Explores the implications of automation on socioeconomic divisions and the future of work.
