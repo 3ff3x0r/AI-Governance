@@ -10,7 +10,7 @@ The famous researcher on AI professor Stuart Russel published on his [linkedin p
 | **Socio-Ideological Constructs**   | **AI as Potential Threat**        | - *"Playing Russian roulette with humanity as the victim."*<br>- *"A risk of human extinction ranging from 10% to 30%."* | Positions AI as a potential existential threat, framing it as a weapon that could lead to humanity's downfall if left unchecked. |
 
 
-On the other side, in tyhis article on [Ars Technica](https://arstechnica.com/information-technology/2024/07/from-sci-fi-to-state-law-californias-plan-to-prevent-ai-catastrophe/ we can find similar framing:
+On the other side, in tyhis article on [Ars Technica](https://arstechnica.com/information-technology/2024/07/from-sci-fi-to-state-law-californias-plan-to-prevent-ai-catastrophe/) we can find similar framing:
 
 | **Framework**                    | **Meme Type**                            | **Examples**                                                                                                           | **Description**                                                                                                                                             |
 |-----------------------------------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
