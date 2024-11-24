@@ -198,7 +198,7 @@ In opposition, several influential tech giants and industry leaders criticized t
 
 ####  Examining the Discourse Around SB1047
 
-The debate over California's SB1047, a proposed bill addressing AI regulation, showcases a fascinating interplay of narratives and ideologies, revealing the underlying tensions in AI governance. Key stakeholders, including researchers, policymakers, and media outlets, leverage various frameworks to argue for or against the bill. By [analyzing these perspectives](meme%20highlights.md), we gain insight into the broader challenges of balancing innovation, safety, and regulation in AI development.
+The debate over California's SB1047, a proposed bill addressing AI regulation, showcases a fascinating interplay of narratives and ideologies, revealing the underlying tensions in AI governance. Key stakeholders, including researchers, policymakers, and media outlets, leverage various frameworks to argue for or against the bill. By [analyzing these perspectives](Meme%20highlights.md), we gain insight into the broader challenges of balancing innovation, safety, and regulation in AI development.
 
 ##### **The Mythological Narrative: Creation and Prophecy**
 
@@ -228,7 +228,8 @@ By emphasizing "freedom of thought and experimentation," Newsom evoked a mytholo
 
 
 # Idea 4: Final considerations
-[List ideas to present, give suggestion for how to handle a better discourse on AI, think about more things]
+...
+for tomorrow...
 ---
 ### List of works cited in the text
 
