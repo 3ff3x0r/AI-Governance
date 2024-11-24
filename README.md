@@ -230,7 +230,11 @@ By emphasizing "freedom of thought and experimentation," Newsom evoked a mytholo
 # Idea 4: Final considerations
 ...
 for tomorrow...
----
+1. memes are shorthand for ideas, but they also have unintended working as virus. One can become vaccinated agains it
+2. A debate as AI demand a more honest approach, pushing memes is useful in a first contatc with the subject, but when it comes to action it is needed a more critical approach to actually explain the wide context of the issues
+3. Memes work in favor of regulatory capture, and gatekeep others that could have important input on the subject
+4. Finding a consensus cannot be met through pushing scarecrow fallacy, AI risks are real and a complex matter that demands an hones dialog to be approached, doomsday profecies about upcoming killing robots,, as media portraid days before the veto of SB1047, as a disservice to governance.
+
 ### List of works cited in the text
 
 1. Autor, D. H. (2015). Why are there still so many jobs? The history and future of workplace automation. *Journal of Economic Perspectives, 29*(3), 3–30. https://doi.org/10.1257/jep.29.3.3
