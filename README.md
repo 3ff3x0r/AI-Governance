@@ -1,5 +1,7 @@
-# AI-Governance
+# The Power of Narratives in AI Governance: Shaping Risks, Framing Rewards, and Guiding Policies
 ## Project for AI Governance Course
+#### by Leon Erickson
+
 
 ### AI Governance: Navigating Narratives
 
@@ -33,6 +35,7 @@ Generative models also risk amplifying biases embedded in their training data, p
 
 While claiming objective neutrality, AI can perpetuate systemic discrimination. Without deliberate measures to address bias, such systems risk deepening historical inequities under the pretense of technological impartiality. This raises critical ethical concerns about who truly benefits from AI advancements and who suffers from its unintended harms.
 
+Adding to these ethical considerations is the growing concern of regulatory capture in AI governance. At its core, this phenomenon describes a distortion of regulatory processes where regulatory agencies become dominated by the industries they are meant to oversee, ultimately serving industry interests rather than the public good. The inherent complexity of AI technology creates a fundamental asymmetry in expertise. Large tech companies possess deep technical knowledge, substantial research capabilities, and extensive practical experience in AI development. This expertise gap often places regulatory bodies at a disadvantage, as they must rely heavily on industry experts to understand the very technologies they are trying to regulate. This dependence can subtly shape how regulations are crafted and implemented, often favoring industry perspectives over broader public interests. Left unchecked, regulatory capture could entrench systemic inequalities in AI governance, perpetuating ethical concerns while undermining efforts to address them.
 
 #### The Role of Computational Power and the Digital Divide
 
@@ -224,6 +227,44 @@ By emphasizing "freedom of thought and experimentation," Newsom evoked a mytholo
 
 # Idea 4: Final considerations
 [List ideas to present, give suggestion for how to handle a better discourse on AI, think about more things]
+---
+### List of works cited in the text
+Here is the list of references mentioned in your text formatted in APA style. For references lacking full details, I've flagged them accordingly:
+
+---
+
+### Complete References
+
+1. Autor, D. H. (2015). *Why are there still so many jobs? The history and future of workplace automation*. Journal of Economic Perspectives, 29(3), 3–30. https://doi.org/10.1257/jep.29.3.3
+2. Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). On the dangers of stochastic parrots: Can language models be too big? *Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT)*, 610–623. https://doi.org/10.1145/3442188.3445922
+3. Blackmore, S. (2000). *The Meme Machine*. Oxford University Press.
+4. Bostrom, N. (2014). *Superintelligence: Paths, dangers, strategies*. Oxford University Press.
+5. Brynjolfsson, E., & McAfee, A. (2014). *The second machine age: Work, progress, and prosperity in a time of brilliant technologies*. W.W. Norton & Company.
+6. Buolamwini, J., & Gebru, T. (2018). Gender shades: Intersectional accuracy disparities in commercial gender classification. *Proceedings of Machine Learning Research*, 81, 1–15.
+7. Chesney, R., & Citron, D. K. (2019). Deepfakes and the new disinformation war: The coming age of post-truth geopolitics. *Foreign Affairs, 98*(1), 147–155.
+8. Dawkins, R. (1976). *The selfish gene*. Oxford University Press.
+9. Dennett, D. C. (1995). *Darwin's dangerous idea: Evolution and the meanings of life*. Simon & Schuster.
+10. Floridi, L., Cowls, J., King, T. C., & Taddeo, M. (2018). How to design AI for social good: Seven essential factors. *Science and Engineering Ethics, 24*(5), 1777–1800. https://doi.org/10.1007/s11948-017-9901-7
+11. Lyon, D. (2018). *The culture of surveillance: Watching as a way of life*. Polity Press.
+12. Marcus, G., & Davis, E. (2019). *Rebooting AI: Building artificial intelligence we can trust*. Pantheon.
+13. Mason, P. (2015). *Postcapitalism: A guide to our future*. Farrar, Straus and Giroux.
+14. McCorduck, P. (2004). *Machines who think: A personal inquiry into the history and prospects of artificial intelligence* (2nd ed.). A.K. Peters/CRC Press.
+15. Russell, S. (2019). *Human compatible: Artificial intelligence and the problem of control*. Viking.
+16. Russell, S., & Norvig, P. (2020). *Artificial intelligence: A modern approach* (4th ed.). Pearson.
+17. Strubell, E., Ganesh, A., & McCallum, A. (2019). Energy and policy considerations for deep learning in NLP. *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics*, 3645–3650. https://doi.org/10.18653/v1/P19-1355
+18. Susskind, D. (2020). *A world without work: Technology, automation, and how we should respond*. Metropolitan Books.
+19. The Verge. (2023). Lawsuits over AI training data could shape the future of generative AI. Retrieved from https://www.theverge.com
+
+---
+
+### Incomplete References or Missing Details
+1. *Phillips, W., & Milner, R.* (2021). *You are here*. [Details about publisher and location not provided].
+2. *Castells, M.* Reference to “network society” concept (specific publication not detailed).
+3. *World Economic Forum*. (2020). *Future of Jobs Report*. [Missing full URL or publication details].
+4. *California-specific bills (e.g., SB 1047, AB 2013, AB 3030)*. Specific citation sources for the text of these bills are not included.
+5. Ars Technica article referenced in the narrative lacks full citation details.
+6. Pirate Wires article on SB 1047 and regulatory capture is referenced but not fully cited.
+
 
 ----
 # References (not in order - figure out how to add to the text using LATEX)
