@@ -198,7 +198,7 @@ In opposition, several influential tech giants and industry leaders criticized t
 
 ####  Examining the Discourse Around SB1047
 
-The debate over California's SB1047, a proposed bill addressing AI regulation, showcases a fascinating interplay of narratives and ideologies, revealing the underlying tensions in AI governance. Key stakeholders, including researchers, policymakers, and media outlets, leverage various frameworks to argue for or against the bill. By analyzing these perspectives, we gain insight into the broader challenges of balancing innovation, safety, and regulation in AI development.
+The debate over California's SB1047, a proposed bill addressing AI regulation, showcases a fascinating interplay of narratives and ideologies, revealing the underlying tensions in AI governance. Key stakeholders, including researchers, policymakers, and media outlets, leverage various frameworks to argue for or against the bill. By [analyzing these perspectives](./meme\ higlights/), we gain insight into the broader challenges of balancing innovation, safety, and regulation in AI development.
 
 ##### **The Mythological Narrative: Creation and Prophecy**
 
@@ -256,41 +256,3 @@ By emphasizing "freedom of thought and experimentation," Newsom evoked a mytholo
 22. The Verge. (2023, January 15). Lawsuits over AI training data could shape the future of generative AI. *The Verge*. https://www.theverge.com/23444685/generative-ai-copyright-infringement-legal-fair-use-training-data
 23. Edwards, B., & Orland, K. (2024, July 29). From sci-fi to state law: California's plan to prevent AI catastrophe. *Ars Technica*. https://arstechnica.com/information-technology/2024/07/from-sci-fi-to-state-law-californias-plan-to-prevent-ai-catastrophe
 24. World Economic Forum. (2020). *The future of jobs report 2020*. World Economic Forum. https://www.weforum.org/reports/the-future-of-jobs-report-2020
-
-
-# References (not in order - figure out how to add to the text using LATEX)
-1. Mason, P. (2015). *Postcapitalism: A Guide to Our Future*. Discusses the potential for technology, including AI, to create a society less reliant on traditional economic scarcity.
-2. Susskind, D. (2020). *A World Without Work: Technology, Automation, and How We Should Respond*. Explores the implications of automation on socioeconomic divisions and the future of work.
-3. Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Examines existential risks associated with advanced AI systems.
-4. Brynjolfsson, E., & McAfee, A. (2014). *The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies*. Analyzes how AI and other technologies might affect the future of work and economic inequality.
-5. Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Offers insights into the broader societal risks associated with AI development.
-6. Floridi, L., Cowls, J., King, T. C., & Taddeo, M. (2018). *How to Design AI for Social Good: Seven Essential Factors*. This paper discusses the societal impacts and ethical considerations surrounding AI, especially when expectations are not met.
-7. Marcus, G., & Davis, E. (2019). *Rebooting AI: Building Artificial Intelligence We Can Trust*. Discusses the limitations and overpromises often seen in AI hype, especially in relation to solving complex problems.
-8. Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Provides insight into the potential risks posed by AI from a philosophical and existential standpoint.
-9. Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Examines the risks and ethical implications of advancing AI technologies. 
-10. McCorduck, P. (2004). *Machines Who Think*. A detailed exploration of the history of AI and its recurring cycles of hype and disappointment.
-11. Russell, S., & Norvig, P. (2020). *Artificial Intelligence: A Modern Approach*. Provides an overview of the field's advancements and the historical context of AI's challenges.
-12. Bender, E. M., et al. (2021). "On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?" *FAccT Conference*.
-13. Buolamwini, J., & Gebru, T. (2018). "Gender Shades." *Proceedings of Machine Learning Research*.
-14. Chesney, R., & Citron, D. (2019). "Deepfakes and the New Disinformation War." *Foreign Affairs*.
-15. Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*.
-16. The Verge. (2023). "Lawsuits Over AI Training Data Could Shape the Future of Generative AI."
-17. Strubell, E., et al. (2019). "Energy and Policy Considerations for Deep Learning." *arXiv preprint*.
-18. World Economic Forum. (2020). "Future of Jobs Report."
-
-
-
-- [Dawkins, R. (1976). *The Selfish Gene*. Oxford University Press](https://www.oup.com/).
-- [Blackmore, S. (2000). *The Meme Machine*. Oxford University Press](https://www.oup.com/).
-- [Dennett, D. (1995). *Darwin's Dangerous Idea*. Simon & Schuster](https://www.simonandschuster.com/).
-- [Clifford, C. (2021). “How AI-powered automation will affect the future of work.” CNBC](https://www.cnbc.com/).
----
-# Notes/Brainstorm to the continuing the text
-1. Fears of corrupt regulations
-Pirate Wires
-The Conflict of Interest at the Heart of CA’s AI Bill
-https://www.piratewires.com/p/sb-1047-dan-hendrycks-conflict-of-interest
-
-2. The importance of proponents and opponents find a middle ground sooner that later
-
-3. Regulatory capture
